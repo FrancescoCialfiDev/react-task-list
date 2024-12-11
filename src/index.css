@@ -1,0 +1,22 @@
+/* GENERAL */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    padding: 50px;
+}
+ul{
+    padding: 0;
+}
+span{
+    background-color: orange;
+}
+h6{
+    font-weight: bold;
+}
+h1{
+    background-color: aqua;
+}
