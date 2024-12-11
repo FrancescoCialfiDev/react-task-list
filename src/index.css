@@ -4,19 +4,32 @@
     padding: 0;
     box-sizing: border-box;
 }
-
-body{
-    padding: 50px;
+.header{
+    padding: 20px 50px;
+}
+main{
+    padding: 20px 50px;
 }
 ul{
     padding: 0;
 }
-span{
-    background-color: orange;
+.colored{
+    
+    border-radius: 0;
+    background-color: rgb(236, 143, 2);
 }
 h6{
     font-weight: bold;
 }
-h1{
-    background-color: aqua;
+h2{
+    background-color: rgba(0, 255, 170, 0.404);
+    font-weight: bold;
 }
+h5{
+    margin-bottom: 30px;
+    font-weight: bold;
+}
+li{
+    line-height: 8px;
+}
+
