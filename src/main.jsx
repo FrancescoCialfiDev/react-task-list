@@ -6,7 +6,6 @@ import App from './App.jsx'
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
-    <h2 className='header'>Task Manager</h2>
     <App />
   </StrictMode>,
 )
